@@ -1,4 +1,4 @@
-# Arduino-LG-TV-Service-Remote
+# Arduino-LG-TV-Service-Remote 2018-2020 model years
 Simple arduino sketch to transmit IR LG TV service menu command 2018-2020 model years
 
 Works with ATmega328 based arduinos, Uno, Nano, Pro mini etc 
