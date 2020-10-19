@@ -1,5 +1,5 @@
 # Arduino-LG-TV-Service-Remote
-Simple arduino .ino to transmit IR LG TV service commands
+Simple arduino sketch to transmit IR LG TV service commands
 
 Works with mega328 based arduinos, Uno, Nano, Pro mini etc 
 
