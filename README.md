@@ -10,4 +10,5 @@ Prerequisites:
 4. in_start_sketch.txt from main repository
 
 Note: Arduino will continuously send the command every 5 seconds while connected to power.
+
 To go back or exit service menus, send command again
