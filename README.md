@@ -11,4 +11,4 @@ Prerequisites:
 
 Note: Arduino will continuously send the command every 5 seconds while connected to power.
 
-To go back or exit service menus, send command again
+To go back or exit service menus, send command again or power off TV
